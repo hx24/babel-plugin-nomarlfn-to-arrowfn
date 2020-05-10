@@ -4,7 +4,7 @@
   "author": "hx24 <83036406@qq.com>",
   "license": "MIT",
   "description": "transform nomarl function to arrow function",
-  "repository": "",
+  "repository": "https://github.com/hx24/babel-plugin-nomarlfn-to-arrowfn",
   "main": "index.js",
   "keywords": [
     "babel",
