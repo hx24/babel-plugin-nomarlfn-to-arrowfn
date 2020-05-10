@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-nomarlfn-to-arrowfn",
+  "version": "1.0.0",
+  "author": "hx24 <83036406@qq.com>",
+  "license": "MIT",
+  "description": "transform nomarl function to arrow function",
+  "repository": "",
+  "main": "index.js",
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "arrow function"
+  ],
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3"
+  }
+}
